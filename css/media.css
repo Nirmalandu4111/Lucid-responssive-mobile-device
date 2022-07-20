@@ -1,0 +1,143 @@
+
+/*Medium device css.....*/
+
+@media(max-width:767px){
+
+    
+}
+
+/*mobile device css......*/
+
+@media(max-width:575px)
+
+{
+
+    
+.navbar-brand img{
+    width: 100px;
+}
+.height h5{
+    font-size: 15px;
+}
+.height h1{
+    font-size: 25px;
+}
+.height p{
+    font-size: 14px;
+}
+
+.nav-item{
+    padding-left:0px;
+    padding-top: 10px;
+    margin: auto;
+}
+.navbar-light .navbar-nav .nav-link {
+   
+    display: inline-block;
+}
+
+.btn-download{
+    margin-top: 5px;
+    padding: 10px 15px;
+}
+.btn-feature{
+    margin-top: 5px;
+    padding: 10px 15px;
+    margin-left: 0px;
+}
+
+.height{
+  text-align: center;  
+}
+.phone-responsive{
+    display: inherit;
+    text-align: center;
+}
+.phone-responsive img{
+    width: 180px;
+    margin: auto;
+
+}
+.phone-bg {
+
+    display: none;
+}
+.pad-top{
+    padding-top: 0 !important;
+
+}
+/*
+.mobile-phone img{
+    width: 275px;
+    padding-bottom: 20px;
+}*/
+.theme-section h2 {
+  
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.btn-feat {
+    
+    padding: 10px 10px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro';
+
+}
+.btn-load{
+    padding: 10px 10px;
+    font-weight: 600;
+    font-family: 'Source Sans Pro';
+} 
+
+.text-al{
+    text-align: center;
+}
+.contact-form {
+  
+    padding: 10px;
+    width: 80%;
+
+}
+.link-section li a i {
+   
+    font-size: 15px;
+}
+.link-section ul li {
+    padding-left: 35px;
+}
+.link-section p {
+    text-align: center;
+    /* margin-left: 45px; */
+    font-weight: 600;
+    font-size: 15px;
+    
+}
+.client{
+    justify-content: center;
+}
+.text-al {
+    text-align: center !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
